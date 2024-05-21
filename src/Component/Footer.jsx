@@ -3,7 +3,7 @@ import React from "react";
 function footerComponent() {
     return (
         <div>
-            <div id="next"></div>
+            
             <footer className="ps-footer">
                 <div className="ps-container">
                     <div className="ps-footer__widgets">

@@ -317,7 +317,7 @@ export default function headerComponent() {
                                             <div className="mega-menu__column">
                                                 <h4>Basic Page</h4>
                                                 <ul className="mega-menu__list">
-                                                    <li><a href="page/about-us.html" >About Us</a></li>
+                                                    <li><a href="/About" >About Us</a></li>
                                                     <li><a href="page/contact-us.html" >Contact</a></li>
                                                     <li><a href="page/faqs.html" >Faqs</a></li>
                                                     <li><a href="page/page-404.html" >404 Page</a></li>
@@ -333,7 +333,7 @@ export default function headerComponent() {
                                             </div>
                                         </div>
                                     </li>
-                                    <li className="menu-item-has-children has-mega-menu"><a href="blog.html" >Blogs</a>
+                                    <li className="menu-item-has-children has-mega-menu"><a href="/Blog" >Blogs</a>
                                         <div className="mega-menu">
                                             <div className="mega-menu__column">
                                                 <h4>Blog Layout</h4>
